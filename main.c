@@ -9,5 +9,6 @@ int main()
     printf("heycorçverseneborç");
     printf("sayi söyle bana\n");
     scanf("%d",&sayi);
+    printf("girdiginiz sayiyi begendim.\n");
     return 0;
 }
